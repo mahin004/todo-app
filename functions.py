@@ -18,4 +18,4 @@ def write_todos(todos_arg, filepath = 'todos.txt'):
 if __name__ == "__main__":
     print("Hello from functions.py")
     ## this will only run if we run this file directly
-    ## running this file from main.py will not run this print statement
+    ## running this file from cli.py will not run this print statement
