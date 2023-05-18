@@ -1,6 +1,6 @@
-Make soupanother heheget a new laptop stand
-setup the stand
-hehe
-new todo from gui
-another onenew todo again
-last todo
+TODO 1
+TODO 2
+another todo
+learn python
+learn another language
+new todo
